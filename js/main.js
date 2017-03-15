@@ -1,5 +1,5 @@
 
-//sorry for the mess | jk
+// Sorry for the mess...
 
 var current_index = 0,
   index,
