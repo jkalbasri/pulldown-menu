@@ -13,6 +13,6 @@
 </ul>
 
 <h2>License</h2>
-Menu interaction concept is licensed under the <a href="http://albasri.dk">albasri.dk</a>.
+Menu interaction concept is licensed under the <a href="#">yourname</a>.
 
                                      
