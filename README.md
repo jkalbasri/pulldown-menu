@@ -12,6 +12,6 @@
 </ul>
 
 <h2>License</h2>
-Menu interaction concept is licensed under the <a href="#">yourname</a>.
+Menu interaction concept is licensed under the <a href="albasri.dk">AA</a>.
 
                                      
